@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ConnectionKiller</string>
+
+    <string name="btn_start_service">Start service</string>
+    <string name="btn_stop_service">Stop service</string>
+
+    <string name="error_service_scheduler">Unable to fetch job scheduler</string>
+    <string name="error_service_running">Job is already running</string>
+
+    <string name="message_service_started">Service started</string>
+    <string name="message_service_stopped">Service stopped</string>
+</resources>
